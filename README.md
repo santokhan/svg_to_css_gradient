@@ -1,6 +1,6 @@
 # Apply SVG Gradient element as CSS background image or fill
 
-[preview](./preview.png)
+![preview](./preview.png)
 
 Yes, you can apply a **radial gradient** to both the **fill** and **stroke** of an SVG using **CSS** and **SVG definitions**.
 
